@@ -5,6 +5,6 @@ public class length_array {
         for(int i=0;i<a.length;i++){
             count++;
         }
-        System.out.println("Count of all elements:"+count);
+        System.out.println("length of array:"+count);
     }
 }
