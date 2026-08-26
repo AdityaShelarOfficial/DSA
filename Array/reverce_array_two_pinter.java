@@ -14,6 +14,5 @@ public class reverce_array_two_pinter {
         for(int k=0;k<a.length;k++){
             System.out.println(a[k]);
         }
-
     }
 }
