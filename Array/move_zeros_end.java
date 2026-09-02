@@ -7,7 +7,6 @@ public class move_zeros_end {
                 a[index]=a[i];
                 index++;
             }
-            
         }
         while(index<a.length){
                 a[index]=0;
