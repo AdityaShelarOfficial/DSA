@@ -13,6 +13,5 @@ public class seprate_even_odd {
         for(int i=0;i<a.length;i++){
             System.out.println(a[i]);
         }
-        
     }
 }
