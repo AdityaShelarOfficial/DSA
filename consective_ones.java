@@ -14,6 +14,6 @@ public class consective_ones {
                 count=0;
             }
         }
-        System.out.println(max);
+        System.out.println(count);
     }
 }
